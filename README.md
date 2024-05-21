@@ -1,6 +1,6 @@
-#### Line that always I keep back in my mind 🧠
+#### Line that I always keep back in my mind 🧠
 
-> I've always believed that Process is more important than the result. Result is just the by-producr of your process. If you focus on the process and take care of it, you'll eventually get results.
+> I've always believed that Process is more important than the result. Result is just the by-product of your process. If you focus on the process and take care of it, you'll eventually get results.
 ~ M.S Dhoni (Former Indian Captain - GOAT of Cricket)
 
 </br> 

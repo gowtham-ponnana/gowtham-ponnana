@@ -13,7 +13,7 @@
 
 * Additionally working as "Security Researcher" at [TECHFUND Inc](https://techfund.jp) - A Japanese StartUp Accelerator & Auditing Platform for both Web2 & Web3 companies.
 
-* Currently holding 37th Position globally on [HackenProof](https://hackenproof.com) & 420th Position globally on [Immunefi](https://immunefi.com) 
+* Currently holding 38th Position globally on [HackenProof](http://hackenproof.com/gowtham-ponnana) & 420th Position globally on [Immunefi](https://immunefi.com) 
 
 * Speaker at DEFCON Delhi, NullHyd,LPU Symposium 2.0 Conferences.
 

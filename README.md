@@ -15,6 +15,8 @@
 
 * Currently holding 38th Position globally on [HackenProof](http://hackenproof.com/gowtham-ponnana) & 420th Position globally on [Immunefi](https://immunefi.com) 
 
+* Secured more than **40+ crypto-platforms** & **20+ other industry** companies
+
 * Speaker at DEFCON Delhi, NullHyd,LPU Symposium 2.0 Conferences.
 
 * Just a dumb ass who loves to play CTFs(Web3 these days) and beat his head around strong codebases & mostly into logical thinking. 

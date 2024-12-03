@@ -86,6 +86,15 @@
 
 </br> 
 
+### 🔒 Private Audits
+| Protocol Name | Protocol Type | Report | Date |
+|--------------|---------------|--------|------|
+| [Private] | Web2 | [Private] | Mar 2024 |
+| [Kingdomly](https://www.kingdomly.app) - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | Aug 2024 |
+| Kimp Finance - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | Sept 2024 |
+| [Redbelly Network](https://www.redbelly.network) - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Private] | Sept 2024 |
+
+
 ### 🗣️To Speak/Connect with me
 
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://twitter.com/gowtham_ponnana)

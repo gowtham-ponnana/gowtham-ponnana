@@ -90,7 +90,7 @@
 | Protocol Name | Protocol Type | Report | Date |
 |--------------|---------------|--------|------|
 | [Private] | Web2 | [Private] | Mar 2024 |
-| [Kingdomly](https://www.kingdomly.app) - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Link](https://hashlock.com/audits/kingdomly) | Aug 2024 |
+| [Kingdomly](https://www.kingdomly.app) - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Link](https://hashlock.com/wp-content/uploads/2024/12/Kingdomly-Smart-Contract-Audit-Report-Final-Report.pdf) | Aug 2024 |
 | Kimp Finance - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | Sept 2024 |
 | [Redbelly Network](https://www.redbelly.network) - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Private] | Sept 2024 |
 

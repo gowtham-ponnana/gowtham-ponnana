@@ -93,7 +93,12 @@
 | [Kingdomly](https://www.kingdomly.app) - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Link](https://hashlock.com/wp-content/uploads/2024/12/Kingdomly-Smart-Contract-Audit-Report-Final-Report.pdf) | Aug 2024 |
 | Kimp Finance - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | Sept 2024 |
 | [Redbelly Network](https://www.redbelly.network) - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Private] | Sept 2024 |
-
+| Aqualis - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2024/09/Aqualis-Code-Review-Smart-Contract-Audit-Report-Final-Report-1.pdf) | Dec 2024 |
+| PandaPump - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | Jan 2025 |
+| HedgeCast AI - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | Jan 2025 |
+| Black Tie - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Private] | Jan 2025 |
+| Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | Jan 2025 |
+| FunctionalLand - [HASHLOCK](https://hashlock.com) | Web3 (DePIN) | [Private] | Jan 2025 |
 
 ### 🗣️To Speak/Connect with me
 

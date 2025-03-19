@@ -101,7 +101,10 @@
 | FunctionalLand - [HASHLOCK](https://hashlock.com) | Web3 (DePIN) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Functionland-Smart-Contract-Audit-Report-Final-Report.pdf) | Jan 2025 |
 | Jedai - [HASHLOCK](https://hashlock.com) | Web3 (AirDrop) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Jedai-Smart-Contract-Audit-Report-Final-Report.pdf) | Feb 2025 |
 | ZebraSwap - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | Feb 2025 | 
-
+| Ithaca - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-Token-Publisher-Penetration-Test-Report-Final-Report-v2.pdf) | March 2025 |
+| SpiralStake - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | March 2025 | 
+| Huda - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | March 2025 | 
+| Lotus Finance - [HASHLOCK](https://hashlock.com) - SUI/MOVE | Web (DeFi) | [Private] | March 2025 |
 
 ### 🗣️To Speak/Connect with me
 

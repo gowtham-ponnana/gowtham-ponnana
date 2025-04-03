@@ -96,7 +96,7 @@
 | Aqualis - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2024/09/Aqualis-Code-Review-Smart-Contract-Audit-Report-Final-Report-1.pdf) | Dec 2024 |
 | PandaPump - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | Jan 2025 |
 | HedgeCast AI - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | Jan 2025 |
-| Black Tie - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Private] | Jan 2025 |
+| Black Tie - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Link](https://hashlock.com/wp-content/uploads/2025/04/Black-Tie-Asset-Hub-Smart-Contract-Audit-Report-Final-Report-v7.pdf) | Jan 2025 |
 | Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | Jan 2025 |
 | FunctionalLand - [HASHLOCK](https://hashlock.com) | Web3 (DePIN) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Functionland-Smart-Contract-Audit-Report-Final-Report.pdf) | Jan 2025 |
 | Jedai - [HASHLOCK](https://hashlock.com) | Web3 (AirDrop) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Jedai-Smart-Contract-Audit-Report-Final-Report.pdf) | Feb 2025 |

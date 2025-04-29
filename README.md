@@ -105,6 +105,14 @@
 | SpiralStake - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | March 2025 | 
 | Huda - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | March 2025 | 
 | Lotus Finance - [HASHLOCK](https://hashlock.com) - SUI/MOVE | Web (DeFi) | [Private] | March 2025 |
+| Immutable Ratings - [HASHLOCK](https://hashlock.com) | Web3 (Voting) | [Private] | April 2025 |
+| ViroVita - [HASHLOCK](https://hashlock.com) | XRP Token Audit | [Private] | April 2025 |
+| Helder - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | April 2025 |
+| CredBull - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | April 2025 |
+| Immutable Ratings - [HASHLOCK](https://hashlock.com) | Web3 (Voting) | [Private] | April 2025 |
+| Black Tie Bridge - [HASHLOCK](https://hashlock.com) | Web(Bridge) | [Private] | April 2025 | 
+
+
 
 ### 🗣️To Speak/Connect with me
 

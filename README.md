@@ -52,8 +52,11 @@
 
 ### 🤝 Goal to Secure $1B+💵 from Exploitations:
 
-- ![0%](https://progress-bar.dev/56/) 56% complete for $1B💵 (Secured $500M💵 - $600M💵 from direct exploitation)
 
+Progress:
+[████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 56%
+
+- Current Status: Secured $560M💵 from direct exploitation
 
 </br>
 

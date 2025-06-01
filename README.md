@@ -108,12 +108,14 @@ Progress:
 | SpiralStake - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | March 2025 | 
 | Huda - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | March 2025 | 
 | Lotus Finance - [HASHLOCK](https://hashlock.com) - SUI/MOVE | Web (DeFi) | [Private] | March 2025 |
-| Immutable Ratings - [HASHLOCK](https://hashlock.com) | Web3 (Voting) | [Private] | April 2025 |
-| ViroVita - [HASHLOCK](https://hashlock.com) | XRP Token Audit | [Private] | April 2025 |
-| Helder - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | April 2025 |
-| CredBull - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | April 2025 |
-| Immutable Ratings - [HASHLOCK](https://hashlock.com) | Web3 (Voting) | [Private] | April 2025 |
+| Immutable Ratings - [HASHLOCK](https://hashlock.com) | Web3 (Voting) | [Link](https://hashlock.com/wp-content/uploads/2025/04/Immutable-Ratings-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | April 2025 |
+| ViroVita - [HASHLOCK](https://hashlock.com) | XRP Token Audit | [Link](https://hashlock.com/wp-content/uploads/2025/05/Virovita-Token-Audit-Report-Final-Report-v4.pdf) | April 2025 |
+| Helder - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Link](https://hashlock.com/wp-content/uploads/2025/04/helder-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | April 2025 |
+| CredBull - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Link](https://hashlock.com/wp-content/uploads/2025/05/Credbull-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | April 2025 |
 | Black Tie Bridge - [HASHLOCK](https://hashlock.com) | Web(Bridge) | [Private] | April 2025 | 
+| Paymatic - [HASHLOCK](https://hashlock.com) | Web3 (Escrow) | [Private] | May 2025 |
+| Empyreal - [HASHLOCK](https://hashlock.com) | Web3 (Treasury Bonds) | [Private] | May 2025 |
+
 
 
 

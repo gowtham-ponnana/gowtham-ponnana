@@ -9,7 +9,7 @@
 
 ### 🤔 Who Am I? 
 
-* I'm Gowtham Naidu Ponnana, an **19y/o** Security Researcher based out of 🇮🇳India, - Just a Telugu speaking guy.
+* I'm Gowtham Naidu Ponnana, an **20y/o** Security Researcher based out of 🇮🇳India, - Just a Telugu speaking guy.
 
 * Currently working as "Head of Security" for [CryptoForce](https://cryptoforce.in) & [PayOnRamp](https://payonramp.in) [India's Low-Fee & Fastest Growing Crypto-Trading Platform & On-Off Ramp Solutions Providers]
 

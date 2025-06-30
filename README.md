@@ -115,6 +115,14 @@ Progress:
 | Black Tie Bridge - [HASHLOCK](https://hashlock.com) | Web(Bridge) | [Private] | April 2025 | 
 | Paymatic - [HASHLOCK](https://hashlock.com) | Web3 (Escrow) | [Private] | May 2025 |
 | Empyreal - [HASHLOCK](https://hashlock.com) | Web3 (Treasury Bonds) | [Private] | May 2025 |
+| Helix Games - [HASHLOCK](https://hashlock.com) | Web3 (Token with added functionality) | [Private] | June 2025 | 
+| Aegis - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | June 2025 | 
+| Dr Doge - [HASHLOCK](https://hashlock.com) | Web3 (Meme Coin) | [Private] | June 2025 |
+| Size Credit - [HASHLOCK](https://hashlock.com) | Web3 (Marketplace) | [Private] | June 2025 | 
+| UseFelix - [StakeIn Security](https://stakeinsec.com) | Web2 | [Private] | June 2025 | 
+
+
+
 
 
 

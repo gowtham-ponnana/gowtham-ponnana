@@ -11,9 +11,9 @@
 
 * I'm Gowtham Naidu Ponnana, an **20y/o** Security Researcher based out of 🇮🇳India, - Just a Telugu speaking guy.
 
-* Currently working as "Head of Security" for [CryptoForce](https://cryptoforce.in) & [PayOnRamp](https://payonramp.in) [India's Low-Fee & Fastest Growing Crypto-Trading Platform & On-Off Ramp Solutions Providers]
-
 * Additionally working as "Security Researcher" at [TECHFUND Inc](https://techfund.jp) - A Japanese StartUp Accelerator & Auditing Platform for both Web2 & Web3 companies.
+
+* Ex. "Head of Security" for [CryptoForce](https://cryptoforce.in) & [PayOnRamp](https://payonramp.in) [India's Low-Fee & Fastest Growing Crypto-Trading Platform & On-Off Ramp Solutions Providers]
 
 * Currently holding 38th Position globally on [HackenProof](http://hackenproof.com/gowtham-ponnana) & 420th Position globally on [Immunefi](https://immunefi.com) 
 

@@ -81,11 +81,11 @@ Progress:
 
 </br>
 
-### 🎤 Interviews & Articles on me:  
+### 🎤 Podcasts, Interviews & Articles on me:  
 
 1) [Interview with Hackenproof - After finding a Critical Bug where the funds at risk were > $400M💵 at the time of reporting](https://hackenproof.com/blog/for-hackers/gowtham-naidu-interview-hacker-bug-bounty)
 2) [Interview with Keep It Real with Shiva YT Channel - Where I spoke about general hacking, scams, crypto, and much more (In my regional language: Telugu)](https://www.youtube.com/watch?v=ATJ6sbkAQ5M)
-
+3) [From LPU Stage to $500M Web3 Hacks – His INSANE Story | Telugu](https://www.youtube.com/watch?v=in8BCQpgwXg)
 
 </br> 
 
@@ -93,33 +93,35 @@ Progress:
 | Protocol Name | Protocol Type | Report | Date |
 |--------------|---------------|--------|------|
 | [Private] | Web2 | [Private] | Mar 2024 |
-| [Kingdomly](https://www.kingdomly.app) - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Link](https://hashlock.com/wp-content/uploads/2024/12/Kingdomly-Smart-Contract-Audit-Report-Final-Report.pdf) | Aug 2024 |
+| Kingdomly - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Link](https://hashlock.com/wp-content/uploads/2024/12/Kingdomly-Smart-Contract-Audit-Report-Final-Report.pdf) | Aug 2024 |
 | Kimp Finance - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | Sept 2024 |
-| [Redbelly Network](https://www.redbelly.network) - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Private] | Sept 2024 |
+| Redbelly Network - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Confidential] | Sept 2024 |
 | Aqualis - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2024/09/Aqualis-Code-Review-Smart-Contract-Audit-Report-Final-Report-1.pdf) | Dec 2024 |
-| PandaPump - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | Jan 2025 |
-| HedgeCast AI - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | Jan 2025 |
+| PandaPump - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Link](https://hashlock.com/wp-content/uploads/2025/07/PandaPump-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | Jan 2025 |
+| HedgeCast AI - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Link](https://hashlock.com/wp-content/uploads/2025/06/Hedgecast-AI-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | Jan 2025 |
 | Black Tie - [HASHLOCK](https://hashlock.com) | Web3 (RWA) | [Link](https://hashlock.com/wp-content/uploads/2025/04/Black-Tie-Asset-Hub-Smart-Contract-Audit-Report-Final-Report-v7.pdf) | Jan 2025 |
-| Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | Jan 2025 |
+| Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Confidential] | Jan 2025 |
 | FunctionalLand - [HASHLOCK](https://hashlock.com) | Web3 (DePIN) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Functionland-Smart-Contract-Audit-Report-Final-Report.pdf) | Jan 2025 |
 | Jedai - [HASHLOCK](https://hashlock.com) | Web3 (AirDrop) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Jedai-Smart-Contract-Audit-Report-Final-Report.pdf) | Feb 2025 |
 | ZebraSwap - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | Feb 2025 | 
 | Ithaca - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2024/10/Ithaca-Token-Publisher-Penetration-Test-Report-Final-Report-v2.pdf) | March 2025 |
 | SpiralStake - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | March 2025 | 
 | Huda - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Private] | March 2025 | 
-| Lotus Finance - [HASHLOCK](https://hashlock.com) - SUI/MOVE | Web (DeFi) | [Private] | March 2025 |
+| Lotus Finance - [HASHLOCK](https://hashlock.com) - SUI/MOVE | Web (DeFi) | [Confidential] | March 2025 |
 | Immutable Ratings - [HASHLOCK](https://hashlock.com) | Web3 (Voting) | [Link](https://hashlock.com/wp-content/uploads/2025/04/Immutable-Ratings-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | April 2025 |
 | ViroVita - [HASHLOCK](https://hashlock.com) | XRP Token Audit | [Link](https://hashlock.com/wp-content/uploads/2025/05/Virovita-Token-Audit-Report-Final-Report-v4.pdf) | April 2025 |
 | Helder - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Link](https://hashlock.com/wp-content/uploads/2025/04/helder-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | April 2025 |
 | CredBull - [HASHLOCK](https://hashlock.com) | Web3 (Token) | [Link](https://hashlock.com/wp-content/uploads/2025/05/Credbull-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | April 2025 |
-| Black Tie Bridge - [HASHLOCK](https://hashlock.com) | Web(Bridge) | [Private] | April 2025 | 
-| Paymatic - [HASHLOCK](https://hashlock.com) | Web3 (Escrow) | [Private] | May 2025 |
+| Black Tie Bridge - [HASHLOCK](https://hashlock.com) | Web(Bridge) | [Link](https://hashlock.com/wp-content/uploads/2025/04/Black-Tie-Bridge-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | April 2025 | 
+| Paymatic - [HASHLOCK](https://hashlock.com) | Web3 (Escrow) | [Link](https://hashlock.com/wp-content/uploads/2025/05/Paymatic-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | May 2025 |
 | Empyreal - [HASHLOCK](https://hashlock.com) | Web3 (Treasury Bonds) | [Private] | May 2025 |
 | Helix Games - [HASHLOCK](https://hashlock.com) | Web3 (Token with added functionality) | [Private] | June 2025 | 
-| Aegis - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | June 2025 | 
-| Dr Doge - [HASHLOCK](https://hashlock.com) | Web3 (Meme Coin) | [Private] | June 2025 |
-| Size Credit - [HASHLOCK](https://hashlock.com) | Web3 (Marketplace) | [Private] | June 2025 | 
+| Aegis - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/06/Aegis-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | June 2025 | 
+| Dr Doge - [HASHLOCK](https://hashlock.com) | Web3 (Meme Coin) | [Link](https://hashlock.com/wp-content/uploads/2025/07/DrDoge-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | June 2025 |
+| Size Credit - [HASHLOCK](https://hashlock.com) | Web3 (Marketplace) | [Link](https://hashlock.com/wp-content/uploads/2025/07/Size-Credit-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | June 2025 | 
 | UseFelix - [StakeIn Security](https://stakeinsec.com) | Web2 | [Private] | June 2025 | 
+| Aegis (2nd) - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/06/Aegis-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
+| Molecula - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | July 2025 | 
 
 
 

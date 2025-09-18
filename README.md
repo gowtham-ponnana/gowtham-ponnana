@@ -122,6 +122,12 @@ Progress:
 | UseFelix - [StakeIn Security](https://stakeinsec.com) | Web2 | [Private] | June 2025 | 
 | Aegis (2nd) - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/06/Aegis-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
 | Molecula - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | July 2025 | 
+| Umbrae - [HASHLOCK](https://hashlock.com) | Web3 (Bot) | [Link](https://hashlock.com/wp-content/uploads/2025/09/Umbrae-Penetration-Test-Report-Final-Report-v2.pdf) | August 2025 |
+| PoolParty - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Poolparty-2nd-Penetration-Test-Report-Final-Report-v1.pdf) | August 2025 |
+| Frenly - [HASHLOCK](https://hashlock.com) | Web3 (OffChain - Subgraph) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-Subgraph-Audit-Report-Final-Report-v1.pdf) | August 2025 |
+| Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-Penetration-Test-Report-Final-Report-v1.pdf) | August 2025 |
+| Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-Smart-Contract-Audit-Report-Final-Report-v1-1.pdf) | August 2025 |
+| Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - LayerZero Integration) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Haiku-v2-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | August 2025 |
 
 
 

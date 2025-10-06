@@ -128,7 +128,8 @@ Progress:
 | Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-Penetration-Test-Report-Final-Report-v1.pdf) | August 2025 |
 | Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-Smart-Contract-Audit-Report-Final-Report-v1-1.pdf) | August 2025 |
 | Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - LayerZero Integration) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Haiku-v2-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | August 2025 |
-
+| Vana - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Decentralized Data Economy) | [Private] | September 2025 |
+| Naoris - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | September 2025 |
 
 
 

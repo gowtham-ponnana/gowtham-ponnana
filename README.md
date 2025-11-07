@@ -130,7 +130,9 @@ Progress:
 | Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - LayerZero Integration) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Haiku-v2-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | August 2025 |
 | Vana - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Decentralized Data Economy) | [Private] | September 2025 |
 | Naoris - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | September 2025 |
-
+| Adil Chain - [HASHLOCK](https://hashlock.com) | Web3 (Chain) | [Private] | October 2025 |
+| Tenexium - [HASHLOCK](https://hashlock.com) | Web3 (Spot Margin Protocol) | [Link](https://hashlock.com/wp-content/uploads/2025/10/Tenex-Smart-Contract-Audit-Report-Final-Repot-v4.pdf) | October 2025 |
+| dTrinity - [HASHLOCK](https://hashlock.com) | Web3 (StableCoin) | [Private] | October 2025 |
 
 
 

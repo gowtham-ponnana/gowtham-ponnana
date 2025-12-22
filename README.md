@@ -9,9 +9,11 @@
 
 ### 🤔 Who Am I? 
 
-* I'm Gowtham Naidu Ponnana, an **20y/o** Security Researcher based out of 🇮🇳India, - Just a Telugu speaking guy.
+* I'm Gowtham Naidu Ponnana, an **21y/o** Security Researcher based out of 🇮🇳India, - Just a Telugu speaking guy.
 
-* Additionally working as "Security Researcher" at [TECHFUND Inc](https://techfund.jp) - A Japanese StartUp Accelerator & Auditing Platform for both Web2 & Web3 companies.
+* Currently working as "Security Engineer 1" at [Trail of Bits](https://trailofbits.com)
+
+* Additionally worked as "Senior Security Researcher" at [TECHFUND Inc](https://techfund.jp) - A Japanese StartUp Accelerator & Auditing Platform for both Web2 & Web3 companies. [ Feb, 2024 - Dec, 2025 ]
 
 * Ex. "Head of Security" for [CryptoForce](https://cryptoforce.in) & [PayOnRamp](https://payonramp.in) [India's Low-Fee & Fastest Growing Crypto-Trading Platform & On-Off Ramp Solutions Providers]
 

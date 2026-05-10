@@ -135,6 +135,16 @@ Progress:
 | Adil Chain - [HASHLOCK](https://hashlock.com) | Web3 (Chain) | [Private] | October 2025 |
 | Tenexium - [HASHLOCK](https://hashlock.com) | Web3 (Spot Margin Protocol) | [Link](https://hashlock.com/wp-content/uploads/2025/10/Tenex-Smart-Contract-Audit-Report-Final-Repot-v4.pdf) | October 2025 |
 | dTrinity - [HASHLOCK](https://hashlock.com) | Web3 (StableCoin) | [Private] | October 2025 |
+| PoolParty - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/08/PoolParty-3rd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | November 2025 |
+| Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | November 2025 |
+| Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-2nd-Penetration-Test-Report-Final-Report-v1.pdf) | November 2025 |
+| DoW - [BAILSEC](https://bailsec.io/) | Web3 (DeFi) | [Private] | March 2026 |
+| Urbit - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi) | [Private] | March 2026 |
+| BNS - [HASHLOCK](https://hashlock.com/) | Web3 (CEX - PoR) | [Private] | April 2026 |
+| BlackTie - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - P2P) | [Private] | April 2026 |
+| Prophet Markets - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - CTF) | [Private] | April 2026 |
+| Futurity Galaxies - [HASHLOCK](https://hashlock.com/) | Web3 (Web) | [Private] | April 2026 |
+
 
 
 

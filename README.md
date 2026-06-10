@@ -144,6 +144,10 @@ Progress:
 | BlackTie - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - P2P) | [Private] | April 2026 |
 | Prophet Markets - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - CTF) | [Private] | April 2026 |
 | Futurity Galaxies - [HASHLOCK](https://hashlock.com/) | Web3 (Web) | [Private] | April 2026 |
+| Naoris - [HASHLOCK](https://hashlock.com) | Web3 (Bridge) | [Private] | May 2026 |
+| Bond - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Lending) | [Private] | May 2026 |
+| Omen - [HASHLOCK](https://hashlock.com) | Web3 (Options - Infra) | [Private] | May 2026 |
+| WayFinder - [HASHLOCK](https://hashlock.com) | Web3 (AI Agents On-Chain) | [Private] | May 2026 |
 
 
 

@@ -123,7 +123,7 @@ Progress:
 | Size Credit - [HASHLOCK](https://hashlock.com) | Web3 (Marketplace) | [Link](https://hashlock.com/wp-content/uploads/2025/07/Size-Credit-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | June 2025 | 
 | UseFelix - [StakeIn Security](https://stakeinsec.com) | Web2 | [Private] | June 2025 | 
 | Aegis (2nd) - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/06/Aegis-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | July 2025 |
-| Molecula - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Private] | July 2025 | 
+| Molecula - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/07/Molecula-2nd-TRON-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | July 2025 | 
 | Umbrae - [HASHLOCK](https://hashlock.com) | Web3 (Bot) | [Link](https://hashlock.com/wp-content/uploads/2025/09/Umbrae-Penetration-Test-Report-Final-Report-v2.pdf) | August 2025 |
 | PoolParty - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Poolparty-2nd-Penetration-Test-Report-Final-Report-v1.pdf) | August 2025 |
 | Frenly - [HASHLOCK](https://hashlock.com) | Web3 (OffChain - Subgraph) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-Subgraph-Audit-Report-Final-Report-v1.pdf) | August 2025 |
@@ -132,18 +132,18 @@ Progress:
 | Haiku - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - LayerZero Integration) | [Link](https://hashlock.com/wp-content/uploads/2025/02/Haiku-v2-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | August 2025 |
 | Vana - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Decentralized Data Economy) | [Private] | September 2025 |
 | Naoris - [HASHLOCK](https://hashlock.com) | Web3 (Staking) | [Private] | September 2025 |
-| Adil Chain - [HASHLOCK](https://hashlock.com) | Web3 (Chain) | [Private] | October 2025 |
+| Adil Chain - [HASHLOCK](https://hashlock.com) | Web3 (Chain) | [Link](https://hashlock.com/wp-content/uploads/2025/12/ADIL-Chain-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | October 2025 |
 | Tenexium - [HASHLOCK](https://hashlock.com) | Web3 (Spot Margin Protocol) | [Link](https://hashlock.com/wp-content/uploads/2025/10/Tenex-Smart-Contract-Audit-Report-Final-Repot-v4.pdf) | October 2025 |
-| dTrinity - [HASHLOCK](https://hashlock.com) | Web3 (StableCoin) | [Private] | October 2025 |
+| dTrinity - [HASHLOCK](https://hashlock.com) | Web3 (StableCoin) | [Link](https://hashlock.com/wp-content/uploads/2025/12/dTRINITY-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | October 2025 |
 | PoolParty - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/08/PoolParty-3rd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | November 2025 |
 | Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-2nd-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | November 2025 |
 | Frenly - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2025/08/Frenly-2nd-Penetration-Test-Report-Final-Report-v1.pdf) | November 2025 |
 | DoW - [BAILSEC](https://bailsec.io/) | Web3 (DeFi) | [Private] | March 2026 |
-| Urbit - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi) | [Private] | March 2026 |
+| Urbit - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi) | [Link](https://hashlock.com/wp-content/uploads/2026/04/Urbit-Token-Smart-Contract-Audit-Report-Final-Report-v1-1.pdf) | March 2026 |
 | BNS - [HASHLOCK](https://hashlock.com/) | Web3 (CEX - PoR) | [Private] | April 2026 |
-| BlackTie - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - P2P) | [Private] | April 2026 |
-| Prophet Markets - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - CTF) | [Private] | April 2026 |
-| Futurity Galaxies - [HASHLOCK](https://hashlock.com/) | Web3 (Web) | [Private] | April 2026 |
+| BlackTie - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - P2P) | [Link](https://hashlock.com/wp-content/uploads/2025/04/BTX-Markets-Smart-Contract-Audit-Report-Final-Report-v3.pdf) | April 2026 |
+| Prophet Markets - [HASHLOCK](https://hashlock.com/) | Web3 (DeFi - CTF) | [Link](https://hashlock.com/wp-content/uploads/2026/05/Prophet-Markets-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | April 2026 |
+| Futurity Galaxies - [HASHLOCK](https://hashlock.com/) | Web3 (Web) | [Link](https://hashlock.com/wp-content/uploads/2026/05/Futurity-Galaxies-Penetration-Test-Report-Final-Report-v2.pdf) | April 2026 |
 | Naoris - [HASHLOCK](https://hashlock.com) | Web3 (Bridge) | [Private] | May 2026 |
 | Bond - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Lending) | [Private] | May 2026 |
 | Omen - [HASHLOCK](https://hashlock.com) | Web3 (Options - Infra) | [Private] | May 2026 |

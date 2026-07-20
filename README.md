@@ -147,7 +147,10 @@ Progress:
 | Naoris - [HASHLOCK](https://hashlock.com) | Web3 (Bridge) | [Private] | May 2026 |
 | Bond - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Lending) | [Private] | May 2026 |
 | Omen - [HASHLOCK](https://hashlock.com) | Web3 (Options - Infra) | [Private] | May 2026 |
-| WayFinder - [HASHLOCK](https://hashlock.com) | Web3 (AI Agents On-Chain) | [Private] | May 2026 |
+| WayFinder - [HASHLOCK](https://hashlock.com) | Web3 (AI Agents On-Chain) | [Link](https://hashlock.com/wp-content/uploads/2026/06/Wayfinder-Smart-Contract-Audit-Report-Final-Report-v1.pdf) | May 2026 |
+| VIA Labs - [HASHLOCK](https://hashlock.com) | Web3 (Bridge) | [Link](https://hashlock.com/wp-content/uploads/2025/05/VIA-Labs-Bridge-Audit-Smart-Contract-Audit-Report-Final-Report-v5.pdf) | June 2026 |
+| Honk - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2026/06/Honk-Penetration-Test-Report-Final-Report-v1-1.pdf) | June 2026 |
+| World Cup PVP - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | June 2026 |
 
 
 

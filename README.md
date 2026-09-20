@@ -151,6 +151,12 @@ Progress:
 | VIA Labs - [HASHLOCK](https://hashlock.com) | Web3 (Bridge) | [Link](https://hashlock.com/wp-content/uploads/2025/05/VIA-Labs-Bridge-Audit-Smart-Contract-Audit-Report-Final-Report-v5.pdf) | June 2026 |
 | Honk - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Link](https://hashlock.com/wp-content/uploads/2026/06/Honk-Penetration-Test-Report-Final-Report-v1-1.pdf) | June 2026 |
 | World Cup PVP - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | June 2026 |
+| TagoCore - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | July 2026 |
+| OpenGradient - [HASHLOCK](https://hashlock.com) | Web3 (DeFi & AI) | [Link](https://hashlock.com/wp-content/uploads/2026/03/Opengradient-2nd-Smart-Contract-Audit-Report-Final-Report-v2.pdf) | July 2026 |
+| EdifyPay - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - FinTech) | [Private] | July 2026 |
+| W30 - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - DeCommerce) | [Private] | July 2026 |
+| JetBit - [HASHLOCK](https://hashlock.com) | Web3 (DeX) | [Private] | August 2026 |
+| LoadOut - [HASHLOCK](https://hashlock.com) | Web3 (DeFi - Web) | [Private] | August 2026 |
 
 
 
